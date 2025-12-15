@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **mathiasgrcgr/mathiasgrcgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+
+My name is Mathias 👨‍🎓  
+I am currently a student, interested in learning and improving my skills in tech and programming.
+
+- 🌱 Currently learning new technologies
+- 💻 Working on personal and school projects
+- 🤝 Open to collaboration and new opportunities
+
+Thanks for visiting my profile!
